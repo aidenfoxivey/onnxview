@@ -1,0 +1,13 @@
+[project]
+name = "onnxview"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "networkx>=3.4.2",
+    "onnx>=1.18.0",
+    "pydot>=4.0.0",
+    "pyvis>=0.3.2",
+]
